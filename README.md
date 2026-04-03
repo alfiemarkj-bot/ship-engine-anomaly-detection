@@ -1,11 +1,11 @@
-# 🚢 Anomaly Detection in Ship Engine Data
+# Anomaly Detection in Ship Engine Data
 
 > Detecting anomalous engine behaviour using statistical and machine learning methods, 
 > applied to 19,535 real-world sensor readings from a ship's engine.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Unplanned engine failures at sea carry serious safety and financial consequences. 
 This project builds a multi-method anomaly detection pipeline to identify abnormal 
