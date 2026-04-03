@@ -31,7 +31,7 @@ All six features show right-skewed distributions with no missing or duplicate va
 
 ![Feature Histograms](histogram.png)
 
-![Boxplots](boxplot.png)
+![Boxplots](box_plot.png)
 
 Near-zero correlations across all features confirm that anomalies only emerge from 
 *combinations* of sensor readings — motivating multivariate ML detection.
